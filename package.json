@@ -1,0 +1,9 @@
+{
+  "name": "ovh-dynhost-update",
+  "version": "0.0.1",
+  "description": "Updates DynHOST records on OVH",
+  "main": "index.js",
+  "scripts": { },
+  "author": "Ash Taylor (a@zi.vc)",
+  "license": "ISC"
+}
